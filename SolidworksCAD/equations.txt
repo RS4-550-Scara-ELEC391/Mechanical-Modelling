@@ -1,0 +1,5 @@
+﻿"KeyDist"= 15
+"Cutout@ShaftKey"="KeyDist"
+"ArmWidth"= 50
+"ArmWidth@RectwithArc"="ArmWidth"
+"DrillHoleHeight"= 24
