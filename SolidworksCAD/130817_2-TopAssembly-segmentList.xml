@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='CPoint1@db15-e-1@130817_2-TopAssembly:CPoint1@db15-e-2@130817_2-TopAssembly'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='Con2'/>
+            <ToComponentRef value='Con1'/>
+            <Length value='1.957029'/>
+            <AdditionalLength value='1.977029'/>
+            <FromLocation value='0.121956,0.001448,-0.234203'/>
+            <ToLocation value='0.085693,0.003365,-0.174746'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>
